@@ -1,0 +1,10 @@
+# Unreal Engine 4/5 .gitignore
+Binaries/
+Build/
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# Visual Studio
+*.sln.DotSettings.user
+.vs/
